@@ -1,4 +1,4 @@
-// This imports the scanner utility. This is used to get user input.
+// This imports the scanner utility. This is used to get the user's input.
 import java.util.Scanner;
 
 // This creates a new class named DecisionBasedCalculator.
