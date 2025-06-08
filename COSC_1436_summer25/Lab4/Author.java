@@ -45,7 +45,7 @@ public class Author
     }
 
     /**
-    * This is a the overridden toString method.
+    * This is the overridden toString method.
     */
     @Override
     public String toString()
