@@ -9,7 +9,7 @@ public class YeOldeTranslator
     // This defines the main method and is the beginning of the program.
     public static void main(String[] args)
     {
-        // Use a Scanner to ask the user to input a math operation (+, -, *, /, or exit).
+        // Use a Scanner to ask the user for input.
         Scanner input = new Scanner(System.in);
 
         // Prompt the user for a word.
@@ -24,6 +24,7 @@ public class YeOldeTranslator
             System.exit(0);
             }
         
+        // This keeps track if where a word begins and ends, then allows the program to progress from word to word.
         int i = 0;
         while (i < modern.length())
         {
@@ -40,7 +41,7 @@ public class YeOldeTranslator
                 word = modern.substring(i, spaceIndex);
                 i = spaceIndex + 1;
             }
-
+        // This is a large list of words that can be used to translate the input, by replacing one word for another. 
         if (word.equals("fall")) word = "descend";
         else if (word.equals("power")) word = "might";
         else if (word.equals("town")) word = "burgh";
@@ -177,6 +178,7 @@ public class YeOldeTranslator
         else if (word.equals("question")) word = "query";
         else if (word.equals("happen")) word = "befall";
         else if (word.equals("complete")) word = "fulfill";
+        else if (word.equals("happy")) word = "merry";
         else if (word.equals("ship")) word = "vessel";
         else if (word.equals("area")) word = "shire";
         else if (word.equals("half")) word = "twain";
@@ -553,6 +555,7 @@ public class YeOldeTranslator
         old += word + " ";
         }
 
+        // This displays the translation.
         System.out.println("Ye Old Fancy Talk: " + old.trim());
     }
 }
