@@ -1,1 +1,0 @@
-**Task 8:**  The `GeometricFigure2` class implements the `SidedObject` interface.

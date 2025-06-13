@@ -1,1 +1,0 @@
-**Task 07:**  The `Student` class contains the correct data fields.

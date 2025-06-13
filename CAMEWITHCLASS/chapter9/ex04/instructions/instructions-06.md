@@ -1,1 +1,0 @@
-**Task 6:**  Created the `Limerick` class. 

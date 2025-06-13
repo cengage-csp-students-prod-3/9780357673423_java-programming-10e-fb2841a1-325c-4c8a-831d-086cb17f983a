@@ -1,1 +1,0 @@
-**Task 2:** The `DebugBlizzard` class compiles without error. 

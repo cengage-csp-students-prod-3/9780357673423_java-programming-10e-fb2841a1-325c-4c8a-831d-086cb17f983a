@@ -1,1 +1,0 @@
-**Task #04:** Overloaded the `FitnessTracker` constructor to accept parameters for each data field. 

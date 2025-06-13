@@ -1,1 +1,0 @@
-**Task 2:**  The `ProductionGoal` class contains the `productionStats()` method.

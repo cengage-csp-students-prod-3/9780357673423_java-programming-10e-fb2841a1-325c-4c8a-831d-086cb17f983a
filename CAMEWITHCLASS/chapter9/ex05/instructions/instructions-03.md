@@ -1,1 +1,0 @@
-**Task 3:** The `BaseballGame` class constructor sets dummy values for the `scores` data field. 

@@ -1,1 +1,0 @@
-**Task 4:**  The `Horse` class contains the `birthYear` data field with set and get methods. 

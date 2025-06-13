@@ -1,1 +1,0 @@
-**Task 02:**  The `AscendingAndDescending` program accepts three integers from a user and displays them in ascending and descending order. 

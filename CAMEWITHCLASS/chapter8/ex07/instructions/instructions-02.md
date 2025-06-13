@@ -1,1 +1,0 @@
-**Task 02:** The `BirthdayReminder` program accepts up to 10 names and birthdates from a user.

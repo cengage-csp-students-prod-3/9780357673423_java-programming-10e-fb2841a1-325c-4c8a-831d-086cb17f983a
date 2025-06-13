@@ -1,1 +1,0 @@
-**Task 7:**  The `ScentedCandle` class contains the `scent` data field with get and set methods.

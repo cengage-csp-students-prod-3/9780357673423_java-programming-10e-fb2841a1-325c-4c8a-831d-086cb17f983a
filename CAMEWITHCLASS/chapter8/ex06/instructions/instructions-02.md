@@ -1,1 +1,0 @@
-**Task 02:**  The `CollegeCourse` class contains the correct data fields.

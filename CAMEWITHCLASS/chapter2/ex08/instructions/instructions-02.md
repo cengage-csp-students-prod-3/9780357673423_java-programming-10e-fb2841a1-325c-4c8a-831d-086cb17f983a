@@ -1,1 +1,0 @@
-**Task 02:**  The `ChiliToGo` program displays the cost of the order. 

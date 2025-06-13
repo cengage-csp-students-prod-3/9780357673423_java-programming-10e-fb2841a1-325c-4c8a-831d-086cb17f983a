@@ -1,1 +1,0 @@
-**Task 7:**  The `BookArray` class accepts user input and displays the correct details about the books.

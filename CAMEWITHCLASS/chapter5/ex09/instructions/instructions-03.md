@@ -1,1 +1,0 @@
-**Task 03:**  Created a default constructor and an overloaded constructor for the `Apartment` class.

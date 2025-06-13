@@ -1,1 +1,0 @@
-**Task 5:** Create the `HighSchoolBaseballGame` class. 

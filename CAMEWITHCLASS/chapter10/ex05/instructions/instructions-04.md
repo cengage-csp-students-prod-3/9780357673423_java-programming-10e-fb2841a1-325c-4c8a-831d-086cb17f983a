@@ -1,1 +1,0 @@
-**Task 4:**  The `SqrtException` program calculates the square root of the input value. 

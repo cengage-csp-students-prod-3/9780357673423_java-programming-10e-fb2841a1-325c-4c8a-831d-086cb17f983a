@@ -1,1 +1,0 @@
-**Task 02:**  The `DistanceFromAverageWithExceptionHandling` catches any `NumberFormatExceptions` thrown. 

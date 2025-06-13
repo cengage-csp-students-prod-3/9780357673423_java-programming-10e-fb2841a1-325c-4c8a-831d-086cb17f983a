@@ -1,1 +1,0 @@
-**Task #02:** Added the three data fields to the `FitnessTracker` class. 

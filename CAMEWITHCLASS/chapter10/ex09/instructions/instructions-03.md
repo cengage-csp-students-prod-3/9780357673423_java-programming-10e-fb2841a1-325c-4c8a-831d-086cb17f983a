@@ -1,1 +1,0 @@
-**Task 3:**  The `TestGrade` class catches any `GradeException`  thrown for invalid grades. 

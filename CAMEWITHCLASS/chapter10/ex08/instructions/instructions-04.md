@@ -1,1 +1,0 @@
-**Task 4:**  The `TestScore` class catches any `ScoreException` thrown for invalid scores. 

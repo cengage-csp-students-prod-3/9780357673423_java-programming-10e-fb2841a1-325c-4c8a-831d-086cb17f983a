@@ -1,1 +1,0 @@
-**Task 2:** The `Pizza` class contains the correct data fields. 

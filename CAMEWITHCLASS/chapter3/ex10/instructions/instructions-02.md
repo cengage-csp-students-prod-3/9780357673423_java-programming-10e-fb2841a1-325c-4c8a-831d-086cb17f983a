@@ -1,1 +1,0 @@
-**Task 02:**  The first `displaySalutation()` method displays a greeting for the first name only.

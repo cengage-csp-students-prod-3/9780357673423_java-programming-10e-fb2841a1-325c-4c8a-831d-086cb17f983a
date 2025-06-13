@@ -1,1 +1,0 @@
-**Task 3:**  The `Horse` class contains the `color` data field with set and get methods. 

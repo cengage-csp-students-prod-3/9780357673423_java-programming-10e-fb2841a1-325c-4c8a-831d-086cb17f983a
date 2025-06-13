@@ -1,1 +1,0 @@
-**Task 3:**  The `Apartment` class implements the `toString()` method.

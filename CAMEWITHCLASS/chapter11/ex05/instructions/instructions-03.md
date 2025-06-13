@@ -1,1 +1,0 @@
-**Task 03:**  The `ValidateCheckDigits` class reads valid account numbers from the *AcctNumsIn.txt* file and writes valid numbers to the *AcctNumsOut.txt* file.

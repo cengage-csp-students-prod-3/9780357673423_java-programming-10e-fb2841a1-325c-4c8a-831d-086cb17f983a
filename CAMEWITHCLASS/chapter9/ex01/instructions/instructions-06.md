@@ -1,1 +1,0 @@
-**Task 6:**  The `RaceHorse` class extends the `Horse` class. 

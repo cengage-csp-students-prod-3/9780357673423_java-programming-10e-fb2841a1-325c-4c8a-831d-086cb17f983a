@@ -1,1 +1,0 @@
-**Task 03:**  The `Percentages` program accepts 2 `double` values from the console and displays the percent of first value of the second value and vice versa.

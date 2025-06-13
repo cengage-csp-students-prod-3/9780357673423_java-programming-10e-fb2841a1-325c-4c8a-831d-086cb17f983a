@@ -1,1 +1,0 @@
-**Task 1:**  Created the `Inventor` class using the `record` syntax.

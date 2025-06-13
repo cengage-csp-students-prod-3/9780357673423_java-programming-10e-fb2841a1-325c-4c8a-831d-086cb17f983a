@@ -1,1 +1,0 @@
-**Task #03:** Created the default `FitnessTracker` constructor. 

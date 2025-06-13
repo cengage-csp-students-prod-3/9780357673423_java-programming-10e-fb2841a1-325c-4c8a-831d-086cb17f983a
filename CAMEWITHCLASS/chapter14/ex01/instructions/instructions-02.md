@@ -1,1 +1,0 @@
-**Task 2:**  The `JBookQuote` program contains one or more labels to display a quote. 

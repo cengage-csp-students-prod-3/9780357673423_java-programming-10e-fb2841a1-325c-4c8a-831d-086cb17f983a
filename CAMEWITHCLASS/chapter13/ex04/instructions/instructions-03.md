@@ -1,1 +1,0 @@
-**Task 3:**  The `RemoveWords` includes an 'Iterator' and iterator method calls.

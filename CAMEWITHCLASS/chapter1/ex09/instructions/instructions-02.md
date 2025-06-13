@@ -1,1 +1,0 @@
-**Task 02:**  The `Triangle` program displays the correct number of `T` characters.

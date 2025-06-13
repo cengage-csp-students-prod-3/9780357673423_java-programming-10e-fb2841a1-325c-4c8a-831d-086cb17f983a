@@ -1,1 +1,0 @@
-**Task 04:**  The `CountByAnything` program accepts a count interval from the console.

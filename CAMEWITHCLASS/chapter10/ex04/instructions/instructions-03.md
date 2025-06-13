@@ -1,1 +1,0 @@
-**Task 3:**  The `DistanceFromAverageWithExceptionHandling` catches any `NegativeArraySizeException` thrown and defaults to an array size of **5**. 

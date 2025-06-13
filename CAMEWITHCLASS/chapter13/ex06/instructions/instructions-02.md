@@ -1,1 +1,0 @@
-**Task 2:**  The `Apartment` class contains the correct data fields.

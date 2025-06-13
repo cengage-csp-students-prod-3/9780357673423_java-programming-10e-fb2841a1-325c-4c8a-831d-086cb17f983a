@@ -1,1 +1,0 @@
-**Task 04:**  The `PaintCalculator` program displays the number of gallons and the cost to paint a room. 

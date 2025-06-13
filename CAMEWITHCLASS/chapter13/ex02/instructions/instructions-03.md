@@ -1,1 +1,0 @@
-**Task 3:**  The `RemoveNumber` includes an iterator.

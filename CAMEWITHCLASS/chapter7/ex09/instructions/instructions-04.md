@@ -1,1 +1,0 @@
-**Task 04:**  The `CategorizeStrings2`  program organizes `String` values into one word, two word, and long worded strings.

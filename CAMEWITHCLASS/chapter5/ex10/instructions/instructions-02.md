@@ -1,1 +1,0 @@
-**Task 02:**  The `TwelveDays` program displays the correct gifts up to the day provided. 

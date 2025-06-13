@@ -1,1 +1,0 @@
-**Task 06:**  Added the `bride` and `groom` data fields to the `Couple` class.

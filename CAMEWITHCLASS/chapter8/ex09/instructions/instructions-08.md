@@ -1,1 +1,0 @@
-**Task 08:**  The `PurchaseArray` program accepts 5 `Purchase` objects from a user and displays the `Purchase` information back to the user.

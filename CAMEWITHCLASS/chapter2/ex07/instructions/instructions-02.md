@@ -1,1 +1,0 @@
-**Task 02:**  The `Eggs` program displays the correct cost for the eggs requested.

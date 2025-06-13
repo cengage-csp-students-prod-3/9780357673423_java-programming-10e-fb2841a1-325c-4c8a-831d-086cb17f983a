@@ -1,1 +1,0 @@
-**Task 3:**  The `SwapAnyTypes` class implements the generic `display()` method.

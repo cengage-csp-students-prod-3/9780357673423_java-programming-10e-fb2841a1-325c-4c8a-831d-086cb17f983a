@@ -1,1 +1,0 @@
-**Task 05:**  The `DisplaySavedCustomerList` program displays the customer records in the *CustomerList.txt* file. 

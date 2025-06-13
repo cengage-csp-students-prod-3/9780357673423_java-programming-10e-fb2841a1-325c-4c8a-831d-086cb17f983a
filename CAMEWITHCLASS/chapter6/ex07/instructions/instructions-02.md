@@ -1,1 +1,0 @@
-**Task 02:**  The `TriangleWithLoops` program creates a seven-line triangle using the input value.

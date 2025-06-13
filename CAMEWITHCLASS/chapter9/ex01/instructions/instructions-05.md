@@ -1,1 +1,0 @@
-**Task 5:**  Created the `RaceHorse` class.

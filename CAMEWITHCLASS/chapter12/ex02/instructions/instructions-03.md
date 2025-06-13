@@ -1,1 +1,0 @@
-**Task 3:**  The `MultiplicationByAdding` program accepts user input and displays the product of the two values.

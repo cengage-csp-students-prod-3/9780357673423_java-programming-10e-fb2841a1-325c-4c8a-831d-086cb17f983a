@@ -1,1 +1,0 @@
-**Task 2:** The `Inventor` class contains two `String` parameters. 

@@ -1,1 +1,0 @@
-**Task 02:**  The `WriteCustomerList`  program accepts the terminating value of **ZZZ**. 

@@ -1,1 +1,0 @@
-**Task 2:**  The `Blanket` class contains the required data fields. 

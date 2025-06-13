@@ -1,1 +1,0 @@
-**Task 02:**  The `DayOfWeek` program displays the correct hours for the day code.

@@ -1,1 +1,0 @@
-**Task 7:**  Created the `GeometricFigure2` class. 

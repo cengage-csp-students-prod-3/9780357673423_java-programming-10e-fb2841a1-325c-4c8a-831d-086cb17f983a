@@ -1,1 +1,0 @@
-**Task 06:**  The `ShadyRestRoom2` program handles an invalid room selection. 

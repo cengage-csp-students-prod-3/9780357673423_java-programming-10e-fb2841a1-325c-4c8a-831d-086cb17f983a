@@ -1,1 +1,0 @@
-**Task 9:**  Created the `DemoCandles` class. 

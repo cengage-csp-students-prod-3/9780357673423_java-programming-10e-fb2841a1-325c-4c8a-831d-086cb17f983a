@@ -1,1 +1,0 @@
-**Task 02:**  The `TimesAndInstructions` program displays the correct course information for the input query.

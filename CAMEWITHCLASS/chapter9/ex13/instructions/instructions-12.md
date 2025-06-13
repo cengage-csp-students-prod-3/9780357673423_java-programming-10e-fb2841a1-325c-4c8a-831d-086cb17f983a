@@ -1,1 +1,0 @@
-**Task 12:**  The `UseGeometric2` program accepts user input and displays the area of the geometric shape. 

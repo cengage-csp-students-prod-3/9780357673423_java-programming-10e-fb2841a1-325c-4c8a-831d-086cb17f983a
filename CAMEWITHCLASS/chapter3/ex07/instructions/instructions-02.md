@@ -1,1 +1,0 @@
-**Task 02:**  The `computeGallons()` method returns the gallons needed for an area. 

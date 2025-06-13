@@ -1,1 +1,0 @@
-**Task 05:**  Determined the floor, ceiling, and rounded value of 22.8. 

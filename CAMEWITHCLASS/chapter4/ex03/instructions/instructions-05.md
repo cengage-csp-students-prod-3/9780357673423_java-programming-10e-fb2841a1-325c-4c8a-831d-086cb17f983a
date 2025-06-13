@@ -1,1 +1,0 @@
-**Task #05:** Included get methods for each data field. 

@@ -1,1 +1,0 @@
-**Task 03:**  The `BookstoreCredit` program displays the discount for the student's information. 

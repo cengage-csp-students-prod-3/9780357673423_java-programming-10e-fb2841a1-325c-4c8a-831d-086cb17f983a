@@ -1,1 +1,0 @@
-**Task 06:**  The `RecordingSort` program accepts data on five recordings. 

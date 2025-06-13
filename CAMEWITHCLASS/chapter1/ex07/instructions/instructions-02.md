@@ -1,1 +1,0 @@
-**Task 02:**  The `MovieQuoteInfo` class contains four `println()` statements. 

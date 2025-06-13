@@ -1,1 +1,0 @@
-**Task 2:**  The `JFrameDisableButton` program disables the `JButton` component after a click action. 

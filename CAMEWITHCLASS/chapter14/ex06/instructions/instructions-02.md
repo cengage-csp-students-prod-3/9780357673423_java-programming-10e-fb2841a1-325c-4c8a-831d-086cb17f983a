@@ -1,1 +1,0 @@
-**Task 2:**  The `JSandwich` class `JComboBox` components contain three options each.

@@ -1,1 +1,0 @@
-**Task 1:** The `DebugThree4` class compiles without error.

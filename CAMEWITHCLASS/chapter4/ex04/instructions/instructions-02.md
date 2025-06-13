@@ -1,1 +1,0 @@
-**Task 02:**  Added the data fields to the `BloodData` class. 

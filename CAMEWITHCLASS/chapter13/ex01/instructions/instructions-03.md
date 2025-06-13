@@ -1,1 +1,0 @@
-**Task 3:**  The `Purchase` class implements a `compareTo()` method.

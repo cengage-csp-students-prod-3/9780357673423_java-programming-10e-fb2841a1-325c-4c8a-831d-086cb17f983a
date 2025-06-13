@@ -1,1 +1,0 @@
-**Task 2:**  The `RemoveNumber` class accepts user input and removes the designated number from the `ArrayList`.

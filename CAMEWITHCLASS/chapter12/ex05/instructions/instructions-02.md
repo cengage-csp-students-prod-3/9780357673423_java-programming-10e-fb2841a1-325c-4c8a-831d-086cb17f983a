@@ -1,1 +1,0 @@
-**Task 2:**  The `TriangleRecursive` class contains the `drawTriangle()` method.

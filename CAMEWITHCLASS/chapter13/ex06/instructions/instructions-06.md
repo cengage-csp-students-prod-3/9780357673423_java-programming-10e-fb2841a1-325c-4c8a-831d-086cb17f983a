@@ -1,1 +1,0 @@
-**Task 6:**  The `ApartmentsLinkedList` includes a `LinkedList`.

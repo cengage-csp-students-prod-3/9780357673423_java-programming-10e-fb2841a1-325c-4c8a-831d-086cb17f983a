@@ -1,1 +1,0 @@
-**Task 11:**  The `ElectricBlanket` method contains the set and get methods for the `hasAutoShutoff` data field.

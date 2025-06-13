@@ -1,1 +1,0 @@
-**Task 02:**  The `calculatePremium()` calculates and returns the premium. 

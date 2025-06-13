@@ -1,1 +1,0 @@
-**Task 3:**  The `JDorm` `JTextArea` is manipulated during `JCheckBox` selection.

@@ -1,1 +1,0 @@
-**Task 04:**  Defined get methods for the `name` and `phone` data fields. 

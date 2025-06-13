@@ -1,1 +1,0 @@
-**Task 05:**  The program `ShadyRestRoom2` accepts the user selection for a room and displays the price of the room. 

@@ -1,1 +1,0 @@
-**Task 07:**  Included a blank constructor and an overloaded constructor for the `Couple` class.

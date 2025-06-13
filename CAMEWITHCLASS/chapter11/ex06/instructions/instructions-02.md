@@ -1,1 +1,0 @@
-**Task 02:**  The `SeekPosition` program displays the correct substring for the entered file.   

@@ -1,1 +1,0 @@
-**Task 02:**  The `Comments` program displays the provided statement on two lines. 

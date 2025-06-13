@@ -1,1 +1,0 @@
-**Task 10:**  Added the `couple`, `weddingDate`, and `location` data fields to the `Wedding` class. 

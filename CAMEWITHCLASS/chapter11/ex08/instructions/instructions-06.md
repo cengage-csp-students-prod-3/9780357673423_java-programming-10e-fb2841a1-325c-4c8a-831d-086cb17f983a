@@ -1,1 +1,0 @@
-**Task 06:**  The `ReadBankAccountsRandomly` program accepts the account number and displays the corresponding record.

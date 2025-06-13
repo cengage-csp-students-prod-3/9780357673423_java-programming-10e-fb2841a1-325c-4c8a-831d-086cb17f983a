@@ -1,1 +1,0 @@
-**Task 02:**  The `SongLyrics` program contains four `println()` statements. 

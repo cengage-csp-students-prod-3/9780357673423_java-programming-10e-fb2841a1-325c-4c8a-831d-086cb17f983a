@@ -1,1 +1,0 @@
-**Task 1:** The `DebugSeven1` class compiles without error.

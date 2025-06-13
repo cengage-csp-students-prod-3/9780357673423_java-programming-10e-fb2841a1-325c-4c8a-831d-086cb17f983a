@@ -1,1 +1,0 @@
-**Task 03:**  The `Triangle` program contains the correct pattern. 

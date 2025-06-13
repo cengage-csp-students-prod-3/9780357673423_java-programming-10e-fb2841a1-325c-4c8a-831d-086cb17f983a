@@ -1,1 +1,0 @@
-**Task 3:**  The `TestScore` class catches any `Exception` thrown for invalid input. 

@@ -1,1 +1,0 @@
-**Task 9:** The 'DemoTees' program accepts user input for two 'TeeShirt' and 'CustomTee' objects.

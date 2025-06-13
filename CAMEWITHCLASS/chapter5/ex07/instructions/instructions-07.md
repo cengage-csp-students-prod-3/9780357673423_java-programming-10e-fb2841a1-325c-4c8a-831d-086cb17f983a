@@ -1,1 +1,0 @@
-**Task 07:**  Defined the `getData()` method of the `TestJobApplicants` class. 

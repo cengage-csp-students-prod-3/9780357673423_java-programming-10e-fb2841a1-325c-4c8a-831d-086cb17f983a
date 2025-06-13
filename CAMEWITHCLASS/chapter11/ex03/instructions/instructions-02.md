@@ -1,1 +1,0 @@
-**Task 02:**  The `FindSelectedFiles` program indicates if a file is in the current working directory. 

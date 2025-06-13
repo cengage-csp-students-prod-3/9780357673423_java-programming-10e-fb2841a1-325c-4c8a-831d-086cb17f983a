@@ -1,1 +1,0 @@
-**Task 3:**  The `Candle` class contains the `height` data field with set and get methods.

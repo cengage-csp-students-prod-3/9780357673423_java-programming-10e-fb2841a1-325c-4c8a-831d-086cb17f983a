@@ -1,1 +1,0 @@
-**Task 3:**  The `JPhotoFrame` program calculates the correct price for the options selected.

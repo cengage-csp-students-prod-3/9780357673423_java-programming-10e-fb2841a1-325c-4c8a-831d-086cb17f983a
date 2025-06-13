@@ -1,1 +1,0 @@
-**Task 8:**  The `ScentedCandle` `price` is calculated in the overloaded `setHeight()` method.

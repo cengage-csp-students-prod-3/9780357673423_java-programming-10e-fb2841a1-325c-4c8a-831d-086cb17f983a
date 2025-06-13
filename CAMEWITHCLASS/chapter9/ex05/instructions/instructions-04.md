@@ -1,1 +1,0 @@
-**Task 4:** The `BaseballGame` class contains the `setScore()` and `getScore()` methods. 

@@ -1,1 +1,0 @@
-**Task 6:** The `DeliveryClass` contains the correct data fields.

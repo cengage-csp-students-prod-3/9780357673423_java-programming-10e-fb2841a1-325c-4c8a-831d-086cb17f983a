@@ -1,1 +1,0 @@
-**Task 04:**  The `AcmePay` program displays the correct pay information for a third-shift worker. 

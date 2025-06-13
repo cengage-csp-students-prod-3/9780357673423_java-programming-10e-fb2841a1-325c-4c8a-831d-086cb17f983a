@@ -1,1 +1,0 @@
-**Task 2:**  The `JFacts` program changes the displayed `JLabel` component when a button is clicked.

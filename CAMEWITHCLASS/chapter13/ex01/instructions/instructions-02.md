@@ -1,1 +1,0 @@
-**Task 2:**  The `Purchase` class implements the `Comparable` interface and the correct data fields. 

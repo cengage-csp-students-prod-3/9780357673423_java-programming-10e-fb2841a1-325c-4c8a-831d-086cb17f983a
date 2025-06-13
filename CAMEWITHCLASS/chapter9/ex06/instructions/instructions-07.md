@@ -1,1 +1,0 @@
-**Task 7:** The `DeliveryPizza` class contains a blank, default constructor and an overloaded constructor. 

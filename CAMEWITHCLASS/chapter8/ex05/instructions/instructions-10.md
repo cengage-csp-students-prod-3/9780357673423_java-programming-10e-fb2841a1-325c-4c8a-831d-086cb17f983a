@@ -1,1 +1,0 @@
-**Task 10:**  The `SalespersonSort` program sorts seven `Salesperson` objects entered by a user either by `id` or `sales` . 

@@ -1,1 +1,0 @@
-**Task 3:**  The `SumRangeRecursively` program displays the sum within the index range provided.

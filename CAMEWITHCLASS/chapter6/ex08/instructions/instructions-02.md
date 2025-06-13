@@ -1,1 +1,0 @@
-**Task 02:**  The `QuizScoreStatistics` program displays the statistics of the valid quiz scores.

@@ -1,1 +1,0 @@
-**Task 09:**  Created the `Wedding` class. 

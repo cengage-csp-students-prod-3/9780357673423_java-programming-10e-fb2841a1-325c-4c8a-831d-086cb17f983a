@@ -1,1 +1,0 @@
-**Task #03:** Added set and get methods for the `mainIngredient` data field. 

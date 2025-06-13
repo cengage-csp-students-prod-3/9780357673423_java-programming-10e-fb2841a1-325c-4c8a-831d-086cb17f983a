@@ -1,1 +1,0 @@
-**Task 4:**  The `Apartment` class implements the `compareTo()` method.

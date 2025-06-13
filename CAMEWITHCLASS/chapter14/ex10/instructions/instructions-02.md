@@ -1,1 +1,0 @@
-**Task 2:**  The `JPhotoFrame` program contains the correct components.

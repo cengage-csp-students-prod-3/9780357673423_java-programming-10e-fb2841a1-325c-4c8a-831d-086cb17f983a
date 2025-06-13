@@ -1,1 +1,0 @@
-**Task 2:**  The `DisplaySortedLists` contains the `display()` method.

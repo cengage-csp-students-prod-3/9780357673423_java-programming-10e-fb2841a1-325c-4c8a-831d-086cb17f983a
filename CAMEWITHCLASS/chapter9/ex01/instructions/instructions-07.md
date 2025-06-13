@@ -1,1 +1,0 @@
-**Task 7:**  The `RaceHorse` class contains the `races` data field with set and get methods. 

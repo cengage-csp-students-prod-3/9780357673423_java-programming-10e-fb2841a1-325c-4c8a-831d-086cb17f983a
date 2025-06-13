@@ -1,1 +1,0 @@
-**Task 03:**  The `StudentsStanding` program filters users into the appropriate text file.

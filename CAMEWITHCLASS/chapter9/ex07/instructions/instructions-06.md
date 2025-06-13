@@ -1,1 +1,0 @@
-**Task 6:** Created the `SedimentaryRock` class with an overloaded constructor. 

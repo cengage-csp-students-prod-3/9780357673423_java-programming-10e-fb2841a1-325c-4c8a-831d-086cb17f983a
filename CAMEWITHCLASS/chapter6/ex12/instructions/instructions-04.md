@@ -1,1 +1,0 @@
-**Task 04:**  The `BarChart2` program displays the chart data for each player's seasonal points. 

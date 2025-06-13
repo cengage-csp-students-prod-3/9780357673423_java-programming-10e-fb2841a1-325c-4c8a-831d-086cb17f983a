@@ -1,1 +1,0 @@
-**Task 3:**  The `ProductionGoal` program accepts user input and displays the correct production statistics.

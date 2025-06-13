@@ -1,1 +1,0 @@
-**Task 03:**  The `DistanceFromAverage` program accepts up to fifteen values.  

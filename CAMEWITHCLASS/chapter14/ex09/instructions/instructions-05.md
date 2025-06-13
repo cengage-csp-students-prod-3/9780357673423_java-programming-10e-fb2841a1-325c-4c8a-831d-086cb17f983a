@@ -1,1 +1,0 @@
-**Task 5:**  The `JDorm2` `JTextArea` contains the `JCheckBox selections.

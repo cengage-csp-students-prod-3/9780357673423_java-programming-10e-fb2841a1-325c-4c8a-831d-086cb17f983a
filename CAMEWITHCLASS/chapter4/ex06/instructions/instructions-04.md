@@ -1,1 +1,0 @@
-**Task 04:**  Determined the cosine of 300. 

@@ -1,1 +1,0 @@
-**Task 02:**  The `ThreeLetterAcronym` program converts input `String` values to three letter acronyms.

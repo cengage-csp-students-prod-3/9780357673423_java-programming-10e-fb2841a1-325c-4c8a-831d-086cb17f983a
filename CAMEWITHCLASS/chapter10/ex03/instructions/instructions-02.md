@@ -1,1 +1,0 @@
-**Task 2:**  The `QuartsToGallonsWithExceptionHandling` catches any `Exception` thrown. 

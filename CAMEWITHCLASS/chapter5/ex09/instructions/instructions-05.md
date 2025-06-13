@@ -1,1 +1,0 @@
-**Task 05:**  Created the get method for the `bedrooms` data field. 

@@ -1,1 +1,0 @@
-**Task 3:** The `DebugFourteen2` program displays the correct information for the payment selection.

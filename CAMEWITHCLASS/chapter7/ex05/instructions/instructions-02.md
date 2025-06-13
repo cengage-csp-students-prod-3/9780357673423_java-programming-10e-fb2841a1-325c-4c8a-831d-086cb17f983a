@@ -1,1 +1,0 @@
-**Task 02:**  The `CountWords` program counts the words in a `String`.

@@ -1,1 +1,0 @@
-**Task 04:**  The `ReadBankAccountsSequentially` program displays the contents of the *BankAccounts.txt* file.

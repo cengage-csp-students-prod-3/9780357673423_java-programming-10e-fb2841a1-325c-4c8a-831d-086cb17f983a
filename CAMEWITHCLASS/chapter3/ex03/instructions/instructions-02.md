@@ -1,1 +1,0 @@
-**Task 02:**  The `displayTwiceTheNumber()` method multiples a number by **2**.

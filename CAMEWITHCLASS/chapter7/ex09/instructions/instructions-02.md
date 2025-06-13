@@ -1,1 +1,0 @@
-**Task 02:**  The `CategorizeStrings`  program organizes `String` values into short and long values.

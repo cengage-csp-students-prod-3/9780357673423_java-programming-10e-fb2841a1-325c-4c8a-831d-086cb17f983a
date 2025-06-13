@@ -1,1 +1,0 @@
-**Task 05:**  Added set and get methods for the `bloodType` data field. 

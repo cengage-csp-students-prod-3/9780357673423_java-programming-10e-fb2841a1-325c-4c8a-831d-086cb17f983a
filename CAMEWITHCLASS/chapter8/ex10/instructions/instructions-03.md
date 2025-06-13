@@ -1,1 +1,0 @@
-**Task 03:**  The `DrugTests` program displays the correct information.

@@ -1,1 +1,0 @@
-**Task 06:**  Added set and get methods for the `rhFactor` data field. 

@@ -1,1 +1,0 @@
-**Task 04:**  Created a get method for each data field in the `Team` class.

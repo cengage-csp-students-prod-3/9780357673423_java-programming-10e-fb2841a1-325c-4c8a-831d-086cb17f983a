@@ -1,1 +1,0 @@
-**Task 03:**  The `ThreeLetterAcronym` program ignores four and more words. 

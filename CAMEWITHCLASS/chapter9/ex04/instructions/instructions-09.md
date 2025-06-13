@@ -1,1 +1,0 @@
-**Task 9:**  The `DemoPoems` program accepts user input and displays information about the created poem.

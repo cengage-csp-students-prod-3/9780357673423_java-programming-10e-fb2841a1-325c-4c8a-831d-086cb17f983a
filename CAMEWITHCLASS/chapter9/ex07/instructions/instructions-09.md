@@ -1,1 +1,0 @@
-**Task 9:** The `DemoRocks` program accepts user input and displays details about the rocks.

@@ -1,1 +1,0 @@
-**Task 04:**  The `BirthdayReminder` program displays an error message for missing entries.

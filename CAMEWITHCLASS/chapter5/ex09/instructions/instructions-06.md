@@ -1,1 +1,0 @@
-**Task 06:**  Created the get method for the `baths` data field. 

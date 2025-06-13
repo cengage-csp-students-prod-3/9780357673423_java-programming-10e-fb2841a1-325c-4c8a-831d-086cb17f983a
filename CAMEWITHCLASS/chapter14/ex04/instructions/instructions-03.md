@@ -1,1 +1,0 @@
-**Task 3:**  The `JFVacationRental` program displays the total price of the vacation rental.

@@ -1,1 +1,0 @@
-**Task 8:**  Created the `DemoHorses` class.

@@ -1,1 +1,0 @@
-**Task 3:**  The `CalculatorDemo2` class catches any `Exception` thrown for invalid input. 
