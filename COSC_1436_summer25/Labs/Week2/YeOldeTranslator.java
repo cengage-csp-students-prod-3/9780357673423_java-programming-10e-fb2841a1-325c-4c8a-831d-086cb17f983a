@@ -1,9 +1,9 @@
 package Labs.Week2;
-// YeOldeEnglishTranslator.java
 
+// allows user input
 import java.util.Scanner;
 
-// This creates a new class named DecisionBasedCalculator.
+// This creates a new class named YeOldeTranslator.
 public class YeOldeTranslator
 {
     // This defines the main method and is the beginning of the program.
