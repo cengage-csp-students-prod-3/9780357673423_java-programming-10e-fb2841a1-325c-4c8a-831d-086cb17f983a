@@ -1,6 +1,6 @@
 package Labs.Week2;
 
-// allows user input
+// imports the scanner utility
 import java.util.Scanner;
 
 // This creates a new class named YeOldeTranslator.
