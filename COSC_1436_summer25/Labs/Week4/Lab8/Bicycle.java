@@ -17,7 +17,7 @@ public class Bicycle extends Vehicle
         System.out.println("Pedal away!");
     }
 
-    public void ringBell()    // rings bell
+    public void ringBell()   // rings bell
     {
         if (hasBell)
         {

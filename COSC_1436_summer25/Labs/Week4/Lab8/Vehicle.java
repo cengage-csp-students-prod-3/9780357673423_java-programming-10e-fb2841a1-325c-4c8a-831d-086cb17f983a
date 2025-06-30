@@ -12,7 +12,7 @@ public class Vehicle
         this.fuel = fuel;
     }
 
-    public void start()    // start the vehicle (will be overridden in subclasses)
+    public void start()   // start the vehicle (will be overridden in subclasses)
     {
         System.out.println("The vehicle has started.");
     }

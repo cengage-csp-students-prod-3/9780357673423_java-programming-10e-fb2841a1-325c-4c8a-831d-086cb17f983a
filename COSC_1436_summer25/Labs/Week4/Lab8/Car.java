@@ -19,7 +19,7 @@ public class Car extends Vehicle
 
     public void honk()
     {
-        System.out.println("Beep Beep!");    // honks
+        System.out.println("Beep Beep!");   // honks
     }
 
     public int getNumberOfDoors() // getter for numberOfDoors

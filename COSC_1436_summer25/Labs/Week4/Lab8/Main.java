@@ -22,7 +22,7 @@ public class Main
         myBike.ringBell();
 
         // (uncomment the below to test access)
-        // System.out.println(myCar.fuel);          // NOT accessible This should error out.
-        // System.out.println(myBike.hasBell);      // NOT accessible. This should error out.
+        // System.out.println(myCar.fuel);         // NOT accessible This should error out.
+        // System.out.println(myBike.hasBell);     // NOT accessible. This should error out.
     }
 }
