@@ -1,4 +1,4 @@
-package Labs.Week2; // location of current lab
+4
 
 import java.util.Scanner; // imports the scanner utility
 
